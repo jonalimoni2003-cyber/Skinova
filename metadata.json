@@ -1,0 +1,6 @@
+{
+  "name": "Skinova",
+  "description": "An AI Skin Analyzer that uses your camera to scan skin conditions, study parameters like acne, wrinkles, pores, and dark circles, and provides personalized routines and subscription skincare solutions.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

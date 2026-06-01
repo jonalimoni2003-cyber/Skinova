@@ -1,0 +1,95 @@
+{
+  "users": [
+    {
+      "userId": "user_mpuaudn0",
+      "email": "tushardas261104@gmail.com",
+      "name": "tushar",
+      "password": "$2b$10$UiJFj2xrHToInKvQvmLFFOTcYkAXDQErcwGlb17ZEBIzeC7PYI0dy",
+      "isPro": false,
+      "createdAt": "2026-05-31T21:36:07.308Z"
+    },
+    {
+      "userId": "user_mpub49tc",
+      "email": "joon@gmail.com",
+      "name": "joon",
+      "password": "$2b$10$merxVk1t4JbWiVUXSumg9..d.ujQg98u9ydokfKKXnQDub9q2HtN2",
+      "isPro": false,
+      "createdAt": "2026-05-31T21:43:48.912Z"
+    },
+    {
+      "userId": "user_guest",
+      "email": "guest@skinova.com",
+      "name": "Guest Explorer",
+      "password": "$2b$10$SaKQXixfU8VKp.0pprCYQ.TLDSHbJsgWrioCB7e8e7UzneynK.7u.",
+      "isPro": false,
+      "createdAt": "2026-05-31T22:01:42.480Z",
+      "isAdmin": false
+    },
+    {
+      "userId": "user_admin",
+      "email": "joonbeee@skinova.admin.com",
+      "name": "Skinova Lead Administrator",
+      "password": "$2b$10$oZzY4wHtwwQbzALMzOFVTeWJxz8PTD6K2nKPYYhS695LWUNHt323G",
+      "isPro": true,
+      "isAdmin": true,
+      "createdAt": "2026-05-31T22:41:54.904Z"
+    }
+  ],
+  "scans": [
+    {
+      "scanId": "scan_mpuf7mod",
+      "email": "guest@skinova.com",
+      "timestamp": "2026-05-31T23:38:24.013Z",
+      "skinType": "Combination Dry",
+      "skinAge": 28,
+      "summary": "The scanner detected mild dehydration with slight pigmentation around under-eye areas. Your lipid skin barrier shows sound elasticity, but pores are slightly dilated in the T-zone. Regular exfoliation paired with hydrating ceramides will improve aggregate radiance.",
+      "scores": {
+        "acne": 78,
+        "pores": 85,
+        "pigmentation": 74,
+        "wrinkles": 84,
+        "texture": 82,
+        "dryness": 84,
+        "darkCircles": 79
+      },
+      "ingredients": [
+        "Niacinamide",
+        "AHA (Glycolic Acid)",
+        "Ceramides",
+        "Hyaluronic Acid"
+      ],
+      "morningRoutine": [
+        {
+          "step": "Double Cleanse",
+          "desc": "Wash with a mild foaming ceramide wash to avoid stripping oils."
+        },
+        {
+          "step": "Tone",
+          "desc": "Apply a lightweight hydrating floral hydrosol toner with hyaluronic acid."
+        },
+        {
+          "step": "Preventative Serum",
+          "desc": "Pat in 4 drops of 5% Niacinamide serum for pore control."
+        },
+        {
+          "step": "Shield",
+          "desc": "Follow with SPF 50 Broad Spectrum physical sunscreen with titanium dioxide."
+        }
+      ],
+      "nightRoutine": [
+        {
+          "step": "Oil Cleanse",
+          "desc": "Melt makeup & pollution sunscreen residues with squalane cleanser."
+        },
+        {
+          "step": "Target Treatment",
+          "desc": "Apply a gentle 1% Glycolic Acid treatment to promote nocturnal exfoliation."
+        },
+        {
+          "step": "Seal & Hydrate",
+          "desc": "Lock moisture inside with a lipid barrier restoration cream full of cholesterol and ceramides."
+        }
+      ]
+    }
+  ]
+}
